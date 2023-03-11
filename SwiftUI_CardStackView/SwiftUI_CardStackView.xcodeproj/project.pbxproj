@@ -17,6 +17,8 @@
 		541F9D5129A5AE9700F994D0 /* MyNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541F9D5029A5AE9700F994D0 /* MyNavigationView.swift */; };
 		541F9D5329A5B66700F994D0 /* MyProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541F9D5229A5B66700F994D0 /* MyProfile.swift */; };
 		5442318829A4FA0E005C1D5D /* MyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5442318729A4FA0E005C1D5D /* MyCard.swift */; };
+		54DF1E4329BCA34500EA4744 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DF1E4229BCA34500EA4744 /* MyTabView.swift */; };
+		54DF1E4529BCA41800EA4744 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DF1E4429BCA41800EA4744 /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		541F9D5029A5AE9700F994D0 /* MyNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationView.swift; sourceTree = "<group>"; };
 		541F9D5229A5B66700F994D0 /* MyProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfile.swift; sourceTree = "<group>"; };
 		5442318729A4FA0E005C1D5D /* MyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCard.swift; sourceTree = "<group>"; };
+		54DF1E4229BCA34500EA4744 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
+		54DF1E4429BCA41800EA4744 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 				541F9D4E29A59AA400F994D0 /* MyList.swift */,
 				541F9D5029A5AE9700F994D0 /* MyNavigationView.swift */,
 				541F9D5229A5B66700F994D0 /* MyProfile.swift */,
+				54DF1E4229BCA34500EA4744 /* MyTabView.swift */,
+				54DF1E4429BCA41800EA4744 /* MyView.swift */,
 				5416EDE929A4E26E002764DB /* Assets.xcassets */,
 				5416EDEB29A4E26E002764DB /* Preview Content */,
 			);
@@ -157,11 +163,13 @@
 			files = (
 				5416EDF429A4E287002764DB /* MyProjectCard.swift in Sources */,
 				541F9D5329A5B66700F994D0 /* MyProfile.swift in Sources */,
+				54DF1E4529BCA41800EA4744 /* MyView.swift in Sources */,
 				5416EDE829A4E26D002764DB /* ContentView.swift in Sources */,
 				5416EDF629A4E623002764DB /* MyBasicCard.swift in Sources */,
 				5442318829A4FA0E005C1D5D /* MyCard.swift in Sources */,
 				5416EDE629A4E26D002764DB /* SwiftUI_CardStackViewApp.swift in Sources */,
 				541F9D4F29A59AA400F994D0 /* MyList.swift in Sources */,
+				54DF1E4329BCA34500EA4744 /* MyTabView.swift in Sources */,
 				541F9D5129A5AE9700F994D0 /* MyNavigationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
