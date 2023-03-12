@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_CardStackViewApp: App {
     var body: some Scene {
         WindowGroup {
-            MyTabView()
+            MyCustomTabView(tabIndex: .home)
         }
     }
 }
